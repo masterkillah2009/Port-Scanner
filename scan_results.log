@@ -1,0 +1,8 @@
+2025-07-20 11:33:53,883 - Port 443 OPEN
+2025-07-20 11:36:58,266 - Port 22 OPEN
+2025-07-20 11:36:58,298 - Port 80 OPEN
+2025-07-20 11:36:58,673 - Banner for port 80: HTTP/1.0 404 Not Found
+transfer-encoding: chunked
+Connection: close
+2025-07-20 11:36:59,298 - Port 179 OPEN
+2025-07-20 11:37:02,301 - Port 443 OPEN
